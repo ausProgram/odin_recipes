@@ -1,1 +1,2 @@
 # odin_recipes
+By the end of this course i hope to be able to touch type and effictively and efficiently  build a website, so far, due to TOP i can start a GitHub account, create a new repository and commit it using Git in the Command Terminal.
